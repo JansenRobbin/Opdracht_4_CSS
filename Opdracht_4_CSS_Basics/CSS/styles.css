@@ -1,0 +1,22 @@
+body { 
+    background-color: grey;
+    color: rgb(20, 48, 204);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.grey-border {
+    border: 3px solid rgb(70, 70, 70);
+    border-style: dashed solid;
+}
+
+#orange-background {
+    background-color: orange;
+}
+
+.black-border {
+    border: 3px solid black;
+}
+
+#darkgrey-background {
+    background-color: darkgrey;
+}
